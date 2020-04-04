@@ -1,38 +1,61 @@
-.App {
-  text-align: center;
+.Header .Logo img{
+  width: 60px;
+  height: 60px;
+  padding-left: 30px;
+  
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.HeaderText{
+  padding-left: 10px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Header{
+  background-color: gold;
+  height: 15vh;
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.Body{
+  height: 78vh;
+}
+.Curves{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 78vh;
+}
+.Footer{
+  background-color: goldenrod;
+  height: 7vh;
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.SelectClass select{
+    background-color: gold;
+    height: 30px;
+    margin-top: 10px;
+    border: 1px solid black;
+    font-weight: 600;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.SelectClass span{
+  margin: 0 10px;
+  font-weight: bolder;
+}
+.SelectClass input[type="date"]{
+  background-color: gold;
+  font-weight: 600;
+}
+.SelectClass button{
+  border: 1px solid black;
+    width: 80px;
+    height: 40px;
+    background-color: gold;
+    margin-left: 30px;
+    font-weight: bold;
+    transition-duration: 0.8s;
+}
+.SelectClass button:hover{
+  background-color: white;
+  color:black;
+  border: 1px solid gold;
 }
