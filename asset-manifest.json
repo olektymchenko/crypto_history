@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/crypto_history/static/css/main.a58b2782.chunk.css",
-    "main.js": "/crypto_history/static/js/main.2aaa0ba9.chunk.js",
-    "main.js.map": "/crypto_history/static/js/main.2aaa0ba9.chunk.js.map",
+    "main.js": "/crypto_history/static/js/main.9e89704c.chunk.js",
+    "main.js.map": "/crypto_history/static/js/main.9e89704c.chunk.js.map",
     "runtime-main.js": "/crypto_history/static/js/runtime-main.a65eeb7f.js",
     "runtime-main.js.map": "/crypto_history/static/js/runtime-main.a65eeb7f.js.map",
     "static/js/2.b6f3a4ae.chunk.js": "/crypto_history/static/js/2.b6f3a4ae.chunk.js",
     "static/js/2.b6f3a4ae.chunk.js.map": "/crypto_history/static/js/2.b6f3a4ae.chunk.js.map",
     "index.html": "/crypto_history/index.html",
-    "precache-manifest.3f8c8ee83b958e96290e1927db7a0fa5.js": "/crypto_history/precache-manifest.3f8c8ee83b958e96290e1927db7a0fa5.js",
+    "precache-manifest.a94da51fed15eaaebb81fc15b62f9695.js": "/crypto_history/precache-manifest.a94da51fed15eaaebb81fc15b62f9695.js",
     "service-worker.js": "/crypto_history/service-worker.js",
     "static/css/main.a58b2782.chunk.css.map": "/crypto_history/static/css/main.a58b2782.chunk.css.map",
     "static/js/2.b6f3a4ae.chunk.js.LICENSE.txt": "/crypto_history/static/js/2.b6f3a4ae.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a65eeb7f.js",
     "static/js/2.b6f3a4ae.chunk.js",
     "static/css/main.a58b2782.chunk.css",
-    "static/js/main.2aaa0ba9.chunk.js"
+    "static/js/main.9e89704c.chunk.js"
   ]
 }
